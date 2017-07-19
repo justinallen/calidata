@@ -20,3 +20,4 @@ Maps (pdf)
 
 Inspiration:
 - [Our World in Data](https://ourworldindata.org)
+- [Data USA: California](https://datausa.io/profile/geo/california)
