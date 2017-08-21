@@ -14,9 +14,13 @@ Maps (interactive):
 - [California Counties Map - D3 block by Erik Jacobsen](http://bl.ocks.org/threestory/ed0f322d7bb2e3be8ded)
 - [California Counties TopoJSON - D3 Map by Scott Pham](https://github.com/scottpham/california-counties)
 - [California Precinct Map by LA Times](https://github.com/datadesk/california-2016-election-precinct-maps)
+- [Food insecurity in California, by county - by Feeding America](http://map.feedingamerica.org/county/2015/overall/california)
 
 Maps (pdf)
 - [California Indian Tribal Homelands and Trust Land Map](http://www.water.ca.gov/tribal/docs/maps/CaliforniaIndianTribalHomelands24x30_20110719.pdf)
+
+Other Data
+- [Food insecurity in California by county - table (PDF)](http://www.feedingamerica.org/hunger-in-america/our-research/map-the-meal-gap/2015/MMG_AllCounties_CDs_MMG_2015_1/CA_AllCounties_CDs_MMG_2015.pdf)
 
 Inspiration:
 - [Our World in Data](https://ourworldindata.org)
