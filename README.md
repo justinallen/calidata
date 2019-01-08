@@ -22,6 +22,7 @@ Maps (pdf)
 - [California Indian Tribal Homelands and Trust Land Map](http://www.water.ca.gov/tribal/docs/maps/CaliforniaIndianTribalHomelands24x30_20110719.pdf)
 
 Other Data
+- [California economic regions - created in 1998 by the California Regional Economies Project](https://en.wikipedia.org/wiki/List_of_economic_regions_of_California)
 - [Food insecurity in California by county - table (PDF)](http://www.feedingamerica.org/hunger-in-america/our-research/map-the-meal-gap/2015/MMG_AllCounties_CDs_MMG_2015_1/CA_AllCounties_CDs_MMG_2015.pdf)
 
 Inspiration:
